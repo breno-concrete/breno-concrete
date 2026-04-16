@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Academic:** Software Engineering student at [@UnB - FCTE]([https://fga.unb.br/](https://fcte.unb.br/)).
+- 🎓 **Academic:** Software Engineering student at [@UnB - FCTE](https://fcte.unb.br/).
 - 🔭 **Engineering Focus:** Currently a **Backend Developer** focused on Java, Spring Boot, and PostgreSQL. I'm building a Marketplace API to master clean architecture and DTO patterns, with long-term aspirations of evolving into a **Fullstack** role.
 - 📈 **Upskilling:** Strengthening my foundation via the *Java Programming MOOC* (University of Helsinki) and *PostgreSQL Database Design* (University of Michigan).
 - 🤝 **Leadership:** Youth Leader for community projects, applying strong communication, organization, and team-mentoring skills to collaborative environments.
