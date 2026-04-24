@@ -38,14 +38,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/breno-concrete/spring-ecommerce">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=breno-concrete&repo=spring-ecommerce&bg_color=0d1117&border_color=0052FF&show_icons=true&icon_color=0052FF&title_color=0052FF&text_color=ffffff&hide_border=false" />
-  </a>
-  <a href="https://github.com/breno-concrete/search-engine">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=breno-concrete&repo=search-engine&bg_color=0d1117&border_color=0052FF&show_icons=true&icon_color=0052FF&title_color=0052FF&text_color=ffffff&hide_border=false" />
-  </a>
-</p>
 
 ---
 
