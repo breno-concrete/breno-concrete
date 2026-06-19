@@ -30,32 +30,6 @@ Software Engineering student at **UnB** (Universidade de Brasília), currently i
 - 📈 Currently deepening data structures, algorithms, system design and AWS
 - 🌍 Working toward international remote software roles
 
-<br/>
-
-## 🚀 Projects I'm proud of
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce API
-Production-style REST API with **Spring Security + JWT**, ownership-based authorization, optimistic locking (`@Version`), Redis caching, and Dockerized multi-stage builds. Documented with Swagger/OpenAPI, tested with JUnit + Mockito.
-
-`Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 PriceRadar
-Price-tracking service that monitors product prices over time and alerts on drops. Built with a focus on clean data modeling and scheduled jobs, deployed on Render with a Neon Serverless Postgres backend.
-
-`Java` `Spring Boot` `PostgreSQL` `Cloud Deploy`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🧰 Tech Stack
 
@@ -65,21 +39,12 @@ Price-tracking service that monitors product prices over time and alerts on drop
 
 </div>
 
-<br/>
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=breno-concrete&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,100:022C22&height=100&section=footer"/>
-</div>
