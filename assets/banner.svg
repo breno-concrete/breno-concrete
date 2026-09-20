@@ -33,7 +33,7 @@
   <g class="ln" style="animation-delay:0.99s"><text x="112" y="159" class="g" xml:space="preserve">[ OK ]</text><text x="200" y="159" class="g">stack</text><text x="326" y="159">Java 21, Spring Boot</text></g>
   <g class="ln" style="animation-delay:1.32s"><text x="112" y="188" class="g" xml:space="preserve">[ OK ]</text><text x="200" y="188" class="g">data</text><text x="326" y="188">PostgreSQL, Redis</text></g>
   <g class="ln" style="animation-delay:1.65s"><text x="112" y="217" class="g" xml:space="preserve">[ .. ]</text><text x="200" y="217" class="g">front</text><text x="326" y="217">React + TS (in progress)</text></g>
-  <g class="ln" style="animation-delay:1.98s"><rect x="104" y="225" width="465" height="29" fill="#EDEDED"/><text x="112" y="246" fill="#0A0A0A" textLength="449" lengthAdjust="spacing">auth and data integrity come first</text></g>
+  <g class="ln" style="animation-delay:1.98s"><rect x="104" y="225" width="465" height="29" fill="#EDEDED"/><text x="112" y="246" style="fill:#0A0A0A" textLength="449" lengthAdjust="spacing">auth and data integrity come first</text></g>
   <g class="ln" style="animation-delay:2.31s"><text x="112" y="275" class="g" xml:space="preserve">[    ]</text><circle cx="152" cy="267" r="6" fill="#00FF41"/><text x="200" y="275" class="g">status</text><text x="326" y="275">building production APIs</text></g>
-  <g class="ln" style="animation-delay:2.64s"><text x="112" y="304" class="g">~</text><text x="138" y="304" fill="#00FF41">$</text><rect class="cur" x="166" y="285" width="13" height="24" fill="#00FF41"/></g>
+  <g class="ln" style="animation-delay:2.64s"><text x="112" y="304" class="g">~</text><text x="138" y="304" style="fill:#00FF41">$</text><rect class="cur" x="166" y="285" width="13" height="24" fill="#00FF41"/></g>
 </svg>
