@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 56" width="480" height="56" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" width="240" height="56" role="img" aria-labelledby="t">
   <title id="t">LeetCode button: opens the profile u/breno-concrete</title>
-  <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:20px;fill:#EDEDED}.g{fill:#8B8B8B}</style>
-  <rect width="480" height="56" fill="#0A0A0A"/>
-  <rect x="0.5" y="0.5" width="479" height="55" fill="none" stroke="#222222"/>
-  <text x="16" y="35" style="fill:#00FF41">$</text><text x="38" y="35">leetcode</text>
-  <text x="464" y="35" text-anchor="end" class="g">u/breno-concrete</text>
+  <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:20px;fill:#EDEDED}</style>
+  <rect width="240" height="56" fill="#0A0A0A"/>
+  <rect x="0.5" y="0.5" width="239" height="55" fill="none" stroke="#222222"/>
+  <text x="20" y="35" style="fill:#00FF41">$</text><text x="42" y="35">leetcode</text>
 </svg>
