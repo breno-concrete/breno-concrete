@@ -1,50 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,100:14532D&height=180&section=header&text=Breno%20Cardoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%2F%20Spring%20Boot&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://www.linkedin.com/in/breno-gomes-cardoso/">
-  <img src="https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:brenocountl@egmial.com">
-  <img src="https://img.shields.io/badge/Email-15803D?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/breno-concrete/">
-  <img src="https://img.shields.io/badge/LeetCode-166534?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems;Java+%2B+Spring+Boot+%2B+PostgreSQL;Currently+sharpening+DSA+%26+system+design;&center=true&width=600&height=40&color=4ADE80&vCenter=true&size=20&font=Fira+Code"/>
+<img src="assets/banner.svg" alt="Terminal boot log: name Breno Cardoso, course Software Engineering at UnB, role backend intern, stack Java 21 and Spring Boot, data PostgreSQL and Redis, frontend React and TypeScript in progress, highlighted line: auth and data integrity come first, status building production APIs, ending in a shell prompt with a blinking cursor." width="100%">
 
 </div>
 
-<br/>
+### `whoami`
 
-## 👋 About me
+```text
+Software Engineering student at UnB, backend intern at a federal agency.
+I maintain production REST APIs where auth, authz and data integrity come first.
+Studying data structures, system design and AWS. Aiming at remote international roles.
+# git blame will find me either way
+```
 
-Software Engineering student at **UnB** (Universidade de Brasília), currently interning as a backend developer at a federal government agency. My work centers on **Java 21**, **Spring Boot**, **PostgreSQL**, building REST APIs with authentication, authorization, and data integrity as first-class concerns — not afterthoughts.
+### `~/stack`
 
-- 🎓 Software Engineering @ UnB
-- 💼 Backend Developer Intern @ a federal agency — building and maintaining production APIs
-- 🛠️ Core stack: Java, Spring Boot, PostgreSQL, Docker, GitHub Actions CI/CD
-- 📈 Currently deepening data structures, algorithms, system design and AWS
-- 🌍 Working toward international remote software roles
+```text
+~/stack
+├── backend
+│   ├── Java 21
+│   ├── Spring Boot
+│   └── also: Python, C
+├── data
+│   ├── PostgreSQL
+│   └── Redis
+├── infra
+│   ├── Docker
+│   ├── GitHub Actions (CI/CD)
+│   └── AWS              [studying]
+└── frontend
+    ├── React            [in progress]
+    └── TypeScript       [in progress]   // reading docs, shipping later
+```
 
+### `~/projects`
 
-## 🧰 Tech Stack
+| Project | Stack | What it solves |
+| --- | --- | --- |
+| [`repositories`](https://github.com/breno-concrete?tab=repositories) | Java, Spring Boot, PostgreSQL | REST APIs with authentication, authorization and data integrity |
+
+### `~/activity`
+
+<img src="assets/activity.svg" alt="Terminal panel listing my last 5 public commits and top languages by bytes, regenerated daily by a GitHub Action. Shows the text syncing until the first run." width="100%">
+
+### `~/contact`
+
+[`$ mail`](mailto:brenocountl@egmial.com) · [`$ open linkedin`](https://www.linkedin.com/in/breno-gomes-cardoso/) · [`$ open leetcode`](https://leetcode.com/u/breno-concrete/)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,githubactions,python,c&theme=dark" />
+`exit 0`
 
 </div>
-
-
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=breno-concrete&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%"/>
-
-</div>
-

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 384" width="800" height="384" role="img" aria-labelledby="t">
+  <title id="t">Terminal panel for recent commits and top languages. Placeholder text: syncing, waiting for the first workflow run.</title>
+  <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:22px;fill:#EDEDED}.g{fill:#8B8B8B}</style>
+  <rect width="800" height="384" fill="#0A0A0A"/>
+  <rect x="0.5" y="0.5" width="799" height="383" fill="none" stroke="#222222"/>
+  <path d="M0 40.5H800" stroke="#222222"/>
+  <text x="16" y="29" class="g">breno-concrete@dev: ~/activity</text>
+  <text x="16" y="72" style="fill:#00FF41">$</text><text x="42" y="72">git log --oneline -5</text>
+  <text x="16" y="101" class="g">syncing...</text>
+  <text x="16" y="130" class="g">waiting for the first workflow run</text>
+</svg>
