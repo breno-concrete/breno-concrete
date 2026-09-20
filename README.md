@@ -7,9 +7,8 @@
 ### `whoami`
 
 ```text
-Software Engineering student at UnB, backend intern at a federal agency.
-I maintain production REST APIs where auth, authz and data integrity come first.
-Studying data structures, system design and AWS. Aiming at remote international roles.
+Software Engineering student at UnB. Backend intern at a federal agency.
+Java, Spring Boot, PostgreSQL. Auth and data integrity come first.
 # git blame will find me either way
 ```
 
@@ -33,19 +32,15 @@ Studying data structures, system design and AWS. Aiming at remote international 
     └── TypeScript       [in progress]   // reading docs, shipping later
 ```
 
-### `~/projects`
-
-| Project | Stack | What it solves |
-| --- | --- | --- |
-| [`repositories`](https://github.com/breno-concrete?tab=repositories) | Java, Spring Boot, PostgreSQL | REST APIs with authentication, authorization and data integrity |
-
 ### `~/activity`
 
 <img src="assets/activity.svg" alt="Terminal panel listing my last 5 public commits and top languages by bytes, regenerated daily by a GitHub Action. Shows the text syncing until the first run." width="100%">
 
 ### `~/contact`
 
-[`$ mail`](mailto:brenocountl@egmial.com) · [`$ open linkedin`](https://www.linkedin.com/in/breno-gomes-cardoso/) · [`$ open leetcode`](https://leetcode.com/u/breno-concrete/)
+<a href="mailto:brenocountl@egmial.com"><img src="assets/contact-mail.svg" alt="Email button: opens a new message to brenocountl@egmial.com" width="480"></a><br>
+<a href="https://www.linkedin.com/in/breno-gomes-cardoso/"><img src="assets/contact-linkedin.svg" alt="LinkedIn button: opens the profile in/breno-gomes-cardoso" width="480"></a><br>
+<a href="https://leetcode.com/u/breno-concrete/"><img src="assets/contact-leetcode.svg" alt="LeetCode button: opens the profile u/breno-concrete" width="480"></a>
 
 <div align="center">
 
