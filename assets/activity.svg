@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">0bf35fc</text>
-  <text x="112" y="96" fill="#EDEDED">style: keep only bann…</text>
-  <text x="16" y="124" fill="#8B8B8B">36c5d08</text>
-  <text x="112" y="124" fill="#EDEDED">feat: contact buttons…</text>
-  <text x="16" y="152" fill="#8B8B8B">61263c1</text>
-  <text x="112" y="152" fill="#EDEDED">style: redesign banne…</text>
-  <text x="16" y="180" fill="#8B8B8B">546c18b</text>
-  <text x="112" y="180" fill="#EDEDED">chore: move activity …</text>
-  <text x="16" y="208" fill="#8B8B8B">06ba48e</text>
-  <text x="112" y="208" fill="#EDEDED">fix(banner): use styl…</text>
+  <text x="16" y="96" fill="#8B8B8B">0c5de1f</text>
+  <text x="112" y="96" fill="#EDEDED">docs(tasks): mark T02…</text>
+  <text x="16" y="124" fill="#8B8B8B">a5e585b</text>
+  <text x="112" y="124" fill="#EDEDED">docs(tasks): record p…</text>
+  <text x="16" y="152" fill="#8B8B8B">c12deb4</text>
+  <text x="112" y="152" fill="#EDEDED">feat(application): ad…</text>
+  <text x="16" y="180" fill="#8B8B8B">46724ee</text>
+  <text x="112" y="180" fill="#EDEDED">feat(application): ad…</text>
+  <text x="16" y="208" fill="#8B8B8B">921123e</text>
+  <text x="112" y="208" fill="#EDEDED">feat(domain): keep vo…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="126.1" height="12" fill="#EDEDED"/>
