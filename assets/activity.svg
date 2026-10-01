@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">b5b8caf</text>
-  <text x="112" y="96" fill="#EDEDED">test</text>
-  <text x="16" y="124" fill="#8B8B8B">87ddb48</text>
-  <text x="112" y="124" fill="#EDEDED">fix(docs): update pen…</text>
-  <text x="16" y="152" fill="#8B8B8B">a4c184e</text>
-  <text x="112" y="152" fill="#EDEDED">feat(database): add '…</text>
-  <text x="16" y="180" fill="#8B8B8B">0e5a1dd</text>
-  <text x="112" y="180" fill="#EDEDED">docs(Dockerfile): imp…</text>
-  <text x="16" y="208" fill="#8B8B8B">27c7ddc</text>
-  <text x="112" y="208" fill="#EDEDED">feat(docker): update …</text>
+  <text x="16" y="96" fill="#8B8B8B">7317c3c</text>
+  <text x="112" y="96" fill="#EDEDED">feat(docker): add vol…</text>
+  <text x="16" y="124" fill="#8B8B8B">b5b8caf</text>
+  <text x="112" y="124" fill="#EDEDED">test</text>
+  <text x="16" y="152" fill="#8B8B8B">87ddb48</text>
+  <text x="112" y="152" fill="#EDEDED">fix(docs): update pen…</text>
+  <text x="16" y="180" fill="#8B8B8B">a4c184e</text>
+  <text x="112" y="180" fill="#EDEDED">feat(database): add '…</text>
+  <text x="16" y="208" fill="#8B8B8B">0e5a1dd</text>
+  <text x="112" y="208" fill="#EDEDED">docs(Dockerfile): imp…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="126.1" height="12" fill="#EDEDED"/>
