@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">8253d16</text>
-  <text x="112" y="96" fill="#EDEDED">feat(docker): serviço…</text>
-  <text x="16" y="124" fill="#8B8B8B">f780cef</text>
-  <text x="112" y="124" fill="#EDEDED">docs(spec-001): tasks…</text>
-  <text x="16" y="152" fill="#8B8B8B">2e80b17</text>
-  <text x="112" y="152" fill="#EDEDED">feat(T023,T023A,T022G…</text>
-  <text x="16" y="180" fill="#8B8B8B">44e05d3</text>
-  <text x="112" y="180" fill="#EDEDED">feat(T023A): contexto…</text>
-  <text x="16" y="208" fill="#8B8B8B">728c85a</text>
-  <text x="112" y="208" fill="#EDEDED">feat(T023): AGENDAR_E…</text>
+  <text x="16" y="96" fill="#8B8B8B">b56570e</text>
+  <text x="112" y="96" fill="#EDEDED">Rename project from N…</text>
+  <text x="16" y="124" fill="#8B8B8B">aa0cd8b</text>
+  <text x="112" y="124" fill="#EDEDED">Rename project to Not…</text>
+  <text x="16" y="152" fill="#8B8B8B">31e7b61</text>
+  <text x="112" y="152" fill="#EDEDED">Initial commit</text>
+  <text x="16" y="180" fill="#8B8B8B">8253d16</text>
+  <text x="112" y="180" fill="#EDEDED">feat(docker): serviço…</text>
+  <text x="16" y="208" fill="#8B8B8B">f780cef</text>
+  <text x="112" y="208" fill="#EDEDED">docs(spec-001): tasks…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="126.1" height="12" fill="#EDEDED"/>
