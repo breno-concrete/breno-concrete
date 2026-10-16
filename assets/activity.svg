@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">c66894f</text>
-  <text x="112" y="96" fill="#EDEDED">docs(readme): documen…</text>
-  <text x="16" y="124" fill="#8B8B8B">22b69c6</text>
-  <text x="112" y="124" fill="#EDEDED">feat(transcription): …</text>
-  <text x="16" y="152" fill="#8B8B8B">296d97f</text>
-  <text x="112" y="152" fill="#EDEDED">feat(transcription): …</text>
-  <text x="16" y="180" fill="#8B8B8B">85b7570</text>
-  <text x="112" y="180" fill="#EDEDED">docs(specs): add grad…</text>
-  <text x="16" y="208" fill="#8B8B8B">ab577e7</text>
-  <text x="112" y="208" fill="#EDEDED">docs(specs): add hand…</text>
+  <text x="16" y="96" fill="#8B8B8B">efcf4ab</text>
+  <text x="112" y="96" fill="#EDEDED">chore(config): switch…</text>
+  <text x="16" y="124" fill="#8B8B8B">ec8d30a</text>
+  <text x="112" y="124" fill="#EDEDED">docs(specs): add essa…</text>
+  <text x="16" y="152" fill="#8B8B8B">c66894f</text>
+  <text x="112" y="152" fill="#EDEDED">docs(readme): documen…</text>
+  <text x="16" y="180" fill="#8B8B8B">22b69c6</text>
+  <text x="112" y="180" fill="#EDEDED">feat(transcription): …</text>
+  <text x="16" y="208" fill="#8B8B8B">296d97f</text>
+  <text x="112" y="208" fill="#EDEDED">feat(transcription): …</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="126.1" height="12" fill="#EDEDED"/>
