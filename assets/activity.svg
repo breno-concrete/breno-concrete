@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">5018266</text>
-  <text x="112" y="96" fill="#EDEDED">Add anki-flashcards s…</text>
-  <text x="16" y="124" fill="#8B8B8B">1a40943</text>
-  <text x="112" y="124" fill="#EDEDED">Add CLAUDE.md with te…</text>
-  <text x="16" y="152" fill="#8B8B8B">9ec1d33</text>
-  <text x="112" y="152" fill="#EDEDED">Add learning guide do…</text>
-  <text x="16" y="180" fill="#8B8B8B">c93e3d8</text>
-  <text x="112" y="180" fill="#EDEDED">Set up Maven project …</text>
-  <text x="16" y="208" fill="#8B8B8B">c5054b9</text>
-  <text x="112" y="208" fill="#EDEDED">first commit</text>
+  <text x="16" y="96" fill="#8B8B8B">47a94c2</text>
+  <text x="112" y="96" fill="#EDEDED">docs(devlog): log mil…</text>
+  <text x="16" y="124" fill="#8B8B8B">714ebb0</text>
+  <text x="112" y="124" fill="#EDEDED">feat(live): print per…</text>
+  <text x="16" y="152" fill="#8B8B8B">d5b1c7b</text>
+  <text x="112" y="152" fill="#EDEDED">feat(live): record vi…</text>
+  <text x="16" y="180" fill="#8B8B8B">9da4cf9</text>
+  <text x="112" y="180" fill="#EDEDED">feat(live): transcrib…</text>
+  <text x="16" y="208" fill="#8B8B8B">9988bc0</text>
+  <text x="112" y="208" fill="#EDEDED">feat(audio): convert …</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="124.8" height="12" fill="#EDEDED"/>
