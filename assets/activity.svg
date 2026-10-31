@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">4806e2f</text>
-  <text x="112" y="96" fill="#EDEDED">Build SimpleHashMap t…</text>
-  <text x="16" y="124" fill="#8B8B8B">6b86197</text>
-  <text x="112" y="124" fill="#EDEDED">Solve Two Sum test-fi…</text>
-  <text x="16" y="152" fill="#8B8B8B">d3a436d</text>
-  <text x="112" y="152" fill="#EDEDED">Restart week 1 at day…</text>
-  <text x="16" y="180" fill="#8B8B8B">645838d</text>
-  <text x="112" y="180" fill="#EDEDED">docs(readme): fix pun…</text>
-  <text x="16" y="208" fill="#8B8B8B">0634dfa</text>
-  <text x="112" y="208" fill="#EDEDED">docs(readme): link th…</text>
+  <text x="16" y="96" fill="#8B8B8B">0d0619d</text>
+  <text x="112" y="96" fill="#EDEDED">Reschedule week 1 pen…</text>
+  <text x="16" y="124" fill="#8B8B8B">e05f558</text>
+  <text x="112" y="124" fill="#EDEDED">Add flashcards for Si…</text>
+  <text x="16" y="152" fill="#8B8B8B">baf52a2</text>
+  <text x="112" y="152" fill="#EDEDED">Resize SimpleHashMap …</text>
+  <text x="16" y="180" fill="#8B8B8B">27a128c</text>
+  <text x="112" y="180" fill="#EDEDED">Fix SimpleHashMap put…</text>
+  <text x="16" y="208" fill="#8B8B8B">4806e2f</text>
+  <text x="112" y="208" fill="#EDEDED">Build SimpleHashMap t…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="124.8" height="12" fill="#EDEDED"/>
