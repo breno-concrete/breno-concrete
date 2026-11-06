@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">94b641f</text>
-  <text x="112" y="96" fill="#EDEDED">perf(evaluation): gra…</text>
-  <text x="16" y="124" fill="#8B8B8B">37b93a4</text>
-  <text x="112" y="124" fill="#EDEDED">chore(config): pick G…</text>
-  <text x="16" y="152" fill="#8B8B8B">6e8509f</text>
-  <text x="112" y="152" fill="#EDEDED">fix(ai): retry once w…</text>
-  <text x="16" y="180" fill="#8B8B8B">6e50e93</text>
-  <text x="112" y="180" fill="#EDEDED">feat(config): switch …</text>
-  <text x="16" y="208" fill="#8B8B8B">669f17a</text>
-  <text x="112" y="208" fill="#EDEDED">feat(experiments): ad…</text>
+  <text x="16" y="96" fill="#8B8B8B">7893a30</text>
+  <text x="112" y="96" fill="#EDEDED">Marca o artigo Lauren…</text>
+  <text x="16" y="124" fill="#8B8B8B">505b248</text>
+  <text x="112" y="124" fill="#EDEDED">Adiciona leituras 01 …</text>
+  <text x="16" y="152" fill="#8B8B8B">595dfd9</text>
+  <text x="112" y="152" fill="#EDEDED">feat(web): protect th…</text>
+  <text x="16" y="180" fill="#8B8B8B">b442216</text>
+  <text x="112" y="180" fill="#EDEDED">docs(specs): specify …</text>
+  <text x="16" y="208" fill="#8B8B8B">57a8970</text>
+  <text x="112" y="208" fill="#EDEDED">feat(experiments): me…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="124.8" height="12" fill="#EDEDED"/>
