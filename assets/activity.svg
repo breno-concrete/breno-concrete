@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">35425bc</text>
-  <text x="112" y="96" fill="#EDEDED">Close week 2 day 4: 1…</text>
-  <text x="16" y="124" fill="#8B8B8B">3e286d0</text>
-  <text x="112" y="124" fill="#EDEDED">Merge pull request #3…</text>
-  <text x="16" y="152" fill="#8B8B8B">81cc1b9</text>
-  <text x="112" y="152" fill="#EDEDED">test(sorteio): teste …</text>
-  <text x="16" y="180" fill="#8B8B8B">f60437c</text>
-  <text x="112" y="180" fill="#EDEDED">Merge pull request #2…</text>
-  <text x="16" y="208" fill="#8B8B8B">e269557</text>
-  <text x="112" y="208" fill="#EDEDED">feat(sorteio): Sortea…</text>
+  <text x="16" y="96" fill="#8B8B8B">21ca383</text>
+  <text x="112" y="96" fill="#EDEDED">Move projects out of …</text>
+  <text x="16" y="124" fill="#8B8B8B">35425bc</text>
+  <text x="112" y="124" fill="#EDEDED">Close week 2 day 4: 1…</text>
+  <text x="16" y="152" fill="#8B8B8B">3e286d0</text>
+  <text x="112" y="152" fill="#EDEDED">Merge pull request #3…</text>
+  <text x="16" y="180" fill="#8B8B8B">81cc1b9</text>
+  <text x="112" y="180" fill="#EDEDED">test(sorteio): teste …</text>
+  <text x="16" y="208" fill="#8B8B8B">f60437c</text>
+  <text x="112" y="208" fill="#EDEDED">Merge pull request #2…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="124.8" height="12" fill="#EDEDED"/>
