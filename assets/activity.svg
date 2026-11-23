@@ -9,16 +9,16 @@
   <text x="38" y="68" fill="#EDEDED">git log -5</text>
   <text x="420" y="68" fill="#00FF41">$</text>
   <text x="442" y="68" fill="#EDEDED">langs --bytes</text>
-  <text x="16" y="96" fill="#8B8B8B">2cb1c48</text>
-  <text x="112" y="96" fill="#EDEDED">Stretch the plan to 1…</text>
-  <text x="16" y="124" fill="#8B8B8B">072b441</text>
-  <text x="112" y="124" fill="#EDEDED">Switch to 1h of study…</text>
-  <text x="16" y="152" fill="#8B8B8B">327a27c</text>
-  <text x="112" y="152" fill="#EDEDED">Solve #49 Group Anagr…</text>
-  <text x="16" y="180" fill="#8B8B8B">823b29e</text>
-  <text x="112" y="180" fill="#EDEDED">feat(shared): radiati…</text>
-  <text x="16" y="208" fill="#8B8B8B">f86e29b</text>
-  <text x="112" y="208" fill="#EDEDED">feat(shared): cheaper…</text>
+  <text x="16" y="96" fill="#8B8B8B">bcf1d99</text>
+  <text x="112" y="96" fill="#EDEDED">Point the previous-pl…</text>
+  <text x="16" y="124" fill="#8B8B8B">27ca9e0</text>
+  <text x="112" y="124" fill="#EDEDED">Register experiment 0…</text>
+  <text x="16" y="152" fill="#8B8B8B">57066f8</text>
+  <text x="112" y="152" fill="#EDEDED">Intensive plan: 4h a …</text>
+  <text x="16" y="180" fill="#8B8B8B">036e8ee</text>
+  <text x="112" y="180" fill="#EDEDED">Stretch the plan to 1…</text>
+  <text x="16" y="208" fill="#8B8B8B">c1d02c0</text>
+  <text x="112" y="208" fill="#EDEDED">Switch to 1h of study…</text>
   <text x="420" y="96" fill="#EDEDED">Python</text>
   <rect x="550" y="84" width="130" height="12" fill="#222222"/>
   <rect x="550" y="84" width="120.9" height="12" fill="#EDEDED"/>
